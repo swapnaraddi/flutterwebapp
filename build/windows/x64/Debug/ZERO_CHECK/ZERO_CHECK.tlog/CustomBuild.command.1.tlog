@@ -1,0 +1,10 @@
+^D:\NEW FOLDER\YDRS_DESKTOP_APP\BUILD\WINDOWS\CMAKEFILES\DEFC205E35E8B00157DE890FD2B2B764\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/New folder/ydrs_desktop_app/windows" "-BD:/New folder/ydrs_desktop_app/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/New folder/ydrs_desktop_app/build/windows/ydrs_desktop_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

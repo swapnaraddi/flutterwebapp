@@ -1,0 +1,13 @@
+D:/New folder/ydrs_desktop_app/build/windows/CMakeFiles/INSTALL.dir
+D:/New folder/ydrs_desktop_app/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/New folder/ydrs_desktop_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/New folder/ydrs_desktop_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/New folder/ydrs_desktop_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/New folder/ydrs_desktop_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/New folder/ydrs_desktop_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/New folder/ydrs_desktop_app/build/windows/runner/CMakeFiles/ydrs_desktop_app.dir
+D:/New folder/ydrs_desktop_app/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/New folder/ydrs_desktop_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+D:/New folder/ydrs_desktop_app/build/windows/plugins/connectivity_plus_windows/CMakeFiles/connectivity_plus_windows_plugin.dir
+D:/New folder/ydrs_desktop_app/build/windows/plugins/connectivity_plus_windows/CMakeFiles/INSTALL.dir
+D:/New folder/ydrs_desktop_app/build/windows/plugins/connectivity_plus_windows/CMakeFiles/ALL_BUILD.dir
